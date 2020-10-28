@@ -1,2 +1,2 @@
 # hello-world
-The City School Darakhshan Campus
+Hi everyone, we are excited to be a part of Incubator round of Showcase school program
